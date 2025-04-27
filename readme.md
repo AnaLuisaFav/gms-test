@@ -1,6 +1,6 @@
 # Testes Automatizados - Cadastro de Membros
 
-Este projeto contém testes automatizados utilizando [Cypress](https://www.cypress.io/) para validar o fluxo de cadastro de membros em uma aplicação web.
+Este projeto contém testes automatizados utilizando [Cypress](https://www.cypress.io/) para validar o fluxo de cadastro de membros em uma aplicação web, disponibilizado pelo curso Jornada QA da EBAC.
 
 ## Tecnologias Utilizadas
 
